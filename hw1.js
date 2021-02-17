@@ -79,6 +79,3 @@ chores2 = chores2.split(",");
 
 var allChores = chores1.concat(chores2);
 console.log(allChores);
-
-
-
