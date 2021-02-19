@@ -16,10 +16,10 @@ console.log(random2);
 var bot1 = choices[random1]; 
 var bot2 = choices[random2];
 
+
 /**
- * If bot1 is the winner, then we set the propery "win" of game to 1. 
- * if bot1 loses, we set the propery of "loss" to 1.
- */
+  * 
+  */
 if (bot1 === 'paper')
 {
     if (bot2 === 'rock')
